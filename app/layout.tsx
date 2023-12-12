@@ -9,7 +9,7 @@ import { ModalProvider } from "@/providers/modal-provider";
 const font = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Strive",
+  title: "Strive75",
   description:
     "Track & Conquer 75 Hard Challenge Progress - Stay Accountable & Motivated | A web portfolio project",
 };

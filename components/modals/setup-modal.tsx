@@ -257,6 +257,11 @@ export const SetupModal = () => {
                       <FormControl>
                         <Input placeholder="86kg" {...field} />
                       </FormControl>
+                      <FormDescription>
+                        The primary focus of this challenge is not to lose
+                        weight, however this will track your weight over the
+                        duration of the challenge.
+                      </FormDescription>
                       <FormMessage />
                     </FormItem>
                   )}
