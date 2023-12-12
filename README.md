@@ -1,4 +1,4 @@
-# Stive - a 75 Hard Challenge Tracker
+# Strive - a 75 Hard Challenge Tracker
 
 A web app designed to help users track and conquer the 75 Hard Challenge, focusing on physical and mental resilience.
 
