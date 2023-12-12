@@ -24,6 +24,8 @@ The 75 Hard Challenge Tracker is a full-stack web application developed to assis
 
 For inquiries or feedback, feel free to reach out via email at [joss.bleach@outlook.com](mailto:joss.bleach@outlook.com).
 
+## 75 Hard
+
 <span style="font-size: 10px;">Please note that "75 Hard" is a trademark owned by Andy Frisella. This project is not officially associated with, endorsed by, or affiliated with the 75 Hard Challenge or its creator. Any references to the 75 Hard Challenge are used solely for demonstration purposes.</span>
 
 <span style="font-size: 10px;">This project respects all copyright and trademark rights of the 75 Hard Challenge. Any images or references to the 75 Hard Challenge are for illustrative purposes and do not imply ownership or endorsement.</span>
