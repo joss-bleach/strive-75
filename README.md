@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Stive - a 75 Hard Challenge Tracker
 
-## Getting Started
+A web app designed to help users track and conquer the 75 Hard Challenge, focusing on physical and mental resilience.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The 75 Hard Challenge Tracker is a full-stack web application developed to assist individuals in monitoring their progress through the 75 Hard Challenge, a program emphasizing mental toughness and physical endurance. Users can track workouts, maintain a disciplined diet, monitor water intake, record reading progress, and capture daily photos to document their journey.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Track Progress:** Monitor workouts, diet adherence, water intake, reading sessions, and daily progress pictures.
+- **User Dashboard:** Personalized dashboards provide visual representations of progress and motivational reminders.
+- **Goal Setting:** Set and manage individualized goals throughout the 75-day challenge.
+- **Motivational Input:** Users can record their initial motivation, providing ongoing inspiration on their dashboard.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+- **Frontend:** Next.js, Tailwind CSS, shadcn/ui
+- **Backend:** Prisma, PlanetScale MySQL
+- **Authentication:** Clerk
+- **Deployment:** Vercel
 
-To learn more about Next.js, take a look at the following resources:
+## Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+For inquiries or feedback, feel free to reach out via email at [joss.bleach@outlook.com](mailto:joss.bleach@outlook.com).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<span style="font-size: 10px;">Please note that "75 Hard" is a trademark owned by Andy Frisella. This project is not officially associated with, endorsed by, or affiliated with the 75 Hard Challenge or its creator. Any references to the 75 Hard Challenge are used solely for demonstration purposes.</span>
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<span style="font-size: 10px;">This project respects all copyright and trademark rights of the 75 Hard Challenge. Any images or references to the 75 Hard Challenge are for illustrative purposes and do not imply ownership or endorsement.</span>
