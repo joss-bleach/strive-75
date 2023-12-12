@@ -16,7 +16,7 @@ The 75 Hard Challenge Tracker is a full-stack web application developed to assis
 ## Tech Stack
 
 - **Frontend:** Next.js, Tailwind CSS, shadcn/ui
-- **Backend:** Prisma, PlanetScale MySQL
+- **Backend:** Prisma, PlanetScale MySQL, uploadthing
 - **Authentication:** Clerk
 - **Deployment:** Vercel
 
